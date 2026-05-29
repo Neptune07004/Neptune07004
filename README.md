@@ -1,4 +1,4 @@
-# Languages ive worked with
+# Languages & libraries I have worked with
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,lua,html,css,discordjs,nodejs,py)](https://skillicons.dev)
 
